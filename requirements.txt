@@ -1,0 +1,11 @@
+ast_serialize==0.13.1
+dotenv==0.9.9
+librt==0.17.0
+mypy==2.4.1
+mypy_extensions==1.2.0
+pathlib==1.0.1
+pathspec==1.1.1
+psycopg2==2.9.13
+python-dotenv==1.2.4
+types-psycopg2==2.9.21.20261122
+typing_extensions==4.16.0
